@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787858607106,
+      "tag": "0000_colorful_changeling",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787859079605,
+      "tag": "0001_cool_sugar_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787899687293,
+      "tag": "0002_red_firebrand",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1787903367382,
+      "tag": "0003_sticky_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1787910913344,
+      "tag": "0004_greedy_bill_hollister",
+      "breakpoints": true
+    }
+  ]
+}
